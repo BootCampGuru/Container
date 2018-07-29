@@ -1,0 +1,11 @@
+C:\docker\ExampleApp\bin\Debug\netcoreapp2.0\ExampleApp.deps.json
+C:\docker\ExampleApp\bin\Debug\netcoreapp2.0\ExampleApp.runtimeconfig.json
+C:\docker\ExampleApp\bin\Debug\netcoreapp2.0\ExampleApp.runtimeconfig.dev.json
+C:\docker\ExampleApp\bin\Debug\netcoreapp2.0\ExampleApp.dll
+C:\docker\ExampleApp\bin\Debug\netcoreapp2.0\ExampleApp.pdb
+C:\docker\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.csprojAssemblyReference.cache
+C:\docker\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.csproj.CoreCompileInputs.cache
+C:\docker\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.AssemblyInfoInputs.cache
+C:\docker\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.AssemblyInfo.cs
+C:\docker\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.dll
+C:\docker\ExampleApp\obj\Debug\netcoreapp2.0\ExampleApp.pdb
